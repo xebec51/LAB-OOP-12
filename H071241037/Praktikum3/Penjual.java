@@ -33,7 +33,4 @@ public class Penjual {
         }
     }
 
-    public void tampilkanTotalPenjualan() {
-        System.out.println("Total penjualan " + namaPenjual + ": Rp " + total);
-    }
 }

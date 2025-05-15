@@ -24,7 +24,7 @@ class Archer extends Hero {
 
     @Override
     void attack() {
-        System.ou       t.println(name + " menembakkan panah dengan kekuatan " + attackPower + "!");
+        System.out.println(name + " menembakkan panah dengan kekuatan " + attackPower + "!");
     }
 }
 

@@ -1,5 +1,5 @@
 package live_coding;
-import java.util.Scanner;
+
 
 public class soal {
    public static void main(String[] args) {
